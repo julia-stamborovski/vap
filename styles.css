@@ -6,7 +6,7 @@
     max-width: 370px;
     display: block;
     margin: auto;
-    background-image: url(./img/bg.jpg);
+    background-image: url("./img/bg.jpg");
     border-radius: 2%;
 }
 .tab {
